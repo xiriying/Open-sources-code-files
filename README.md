@@ -6,6 +6,6 @@ You cannot upload my source code to the Chinese's code website, jusk like the CS
 So you must understand, ok?
 
 # Other
-1.You cannot copy my code to your program.
-2.You cannot share my code and code files to your friend and other programer, and they delete my name write they name.
-3.If you like my code and files, please click the star, Thank you.
+### 1.You cannot copy my code to your program.
+### 2.You cannot share my code and code files to your friend and other programer, and they delete my name write they name.
+### 3.If you like my code and files, please click the star, Thank you.
