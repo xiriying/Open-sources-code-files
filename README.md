@@ -2,7 +2,7 @@
 Here is my open source code file's repository, I gonna upload my code files upload to there.
 
 # Warning
-You cannot upload my source code to the Chinese's code website, jusk like the CSDN and Gitee.
+You cannot upload my source code to the Chinese code website, jusk like the CSDN and Gitee.
 So you must understand, ok?
 
 # Other
